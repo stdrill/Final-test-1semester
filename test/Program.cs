@@ -7,11 +7,11 @@ void PrintArray (string[] arr)
 }
 int SelectElements(string[] arr)
 {
-   int quantity = 0;
+   int newSize = 0;
    for (int i = 0; i < arr.Length; i++){
-    if (arr[i].Length <= 3) quantity += 1;
+    if (arr[i].Length <= 3) newSize += 1;
    }
-    return quantity;
+    return newSize;
 }
 string[] FillNewArray (string[] arr, int quantity)
 {
