@@ -1,0 +1,15 @@
+D:\Projects\Final-test-1semester\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+D:\Projects\Final-test-1semester\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Final-test-1semester\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+D:\Projects\Final-test-1semester\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+D:\Projects\Final-test-1semester\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+D:\Projects\Final-test-1semester\test\bin\Debug\net6.0\test.exe
+D:\Projects\Final-test-1semester\test\bin\Debug\net6.0\test.deps.json
+D:\Projects\Final-test-1semester\test\bin\Debug\net6.0\test.runtimeconfig.json
+D:\Projects\Final-test-1semester\test\bin\Debug\net6.0\test.dll
+D:\Projects\Final-test-1semester\test\bin\Debug\net6.0\test.pdb
+D:\Projects\Final-test-1semester\test\obj\Debug\net6.0\test.dll
+D:\Projects\Final-test-1semester\test\obj\Debug\net6.0\refint\test.dll
+D:\Projects\Final-test-1semester\test\obj\Debug\net6.0\test.pdb
+D:\Projects\Final-test-1semester\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+D:\Projects\Final-test-1semester\test\obj\Debug\net6.0\ref\test.dll
